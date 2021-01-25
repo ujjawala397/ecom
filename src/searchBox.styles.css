@@ -1,0 +1,16 @@
+.search_input{
+    width: 100%;
+    border-radius: 6px;
+    outline: none;    
+    font-size: large;
+    padding-left:10px;
+    
+}
+
+@media (max-width: 800px) {
+    .search_input {
+        width:96%;
+        margin: 0 2% 2% 2%;
+       
+    }
+}
